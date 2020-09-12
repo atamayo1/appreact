@@ -1,7 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
-import './App.css';
-
+import './assets/css/App.css';
+import MyComponent from "./components/MyComponent";
+import Peliculas from "./components/Peliculas";
 function App() {
   return (
     <div className="App">
@@ -18,7 +19,12 @@ function App() {
         >
           Learn React
         </a>
+        <section className="components">
+          <MyComponent></MyComponent>
+          <Peliculas></Peliculas>
+        </section>
       </header>
+
     </div>
   );
 }

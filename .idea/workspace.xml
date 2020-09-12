@@ -1,16 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b720c837-370b-4cad-8e5b-8cfee6645829" name="Default Changelist" comment="" />
+    <list default="true" id="b720c837-370b-4cad-8e5b-8cfee6645829" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/MensajeEstatico.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MyComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Peliculas.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ejV1XjVsS2woKjprvZAqh81Ir3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,6 +48,9 @@
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
@@ -225,6 +245,9 @@
       <workItem from="1594834911939" duration="857000" />
       <workItem from="1594837130473" duration="1755000" />
       <workItem from="1594839858041" duration="1299000" />
+      <workItem from="1594867390638" duration="307000" />
+      <workItem from="1594869450870" duration="1510000" />
+      <workItem from="1594871635235" duration="346000" />
     </task>
     <servers />
   </component>
@@ -232,13 +255,21 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="366" y="209" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594870535402">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="366" y="209" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800@0.0.1280.800" timestamp="1594870535402" />
     <state x="512" y="304" key="Github.ShareDialog" timestamp="1594841352168">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="512" y="304" key="Github.ShareDialog/0.0.1280.800@0.0.1280.800" timestamp="1594841352168" />
-    <state x="340" y="35" width="600" height="729" key="find.popup" timestamp="1594841491369">
+    <state x="340" y="35" width="600" height="729" key="find.popup" timestamp="1594867416466">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="340" y="35" width="600" height="729" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1594841491369" />
+    <state x="340" y="35" width="600" height="729" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1594867416466" />
+    <state x="305" y="185" key="run.anything.popup" timestamp="1594869718261">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="305" y="185" key="run.anything.popup/0.23.1280.777@0.23.1280.777" timestamp="1594869718261" />
   </component>
 </project>
